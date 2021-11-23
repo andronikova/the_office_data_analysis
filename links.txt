@@ -1,0 +1,5 @@
+https://www.kaggle.com/bcruise/the-office-episodes-data?select=the_office_episodes.csv
+
+https://technistema.com/posts/introducing-the-schrute-package-the-entire-transcripts-from-the-office/
+
+https://towardsdatascience.com/python-text-analysis-with-the-schrutepy-package-234bc70f3916

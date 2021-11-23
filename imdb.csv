@@ -1,0 +1,187 @@
+season,title,rating,votes,double,episode,month,director,writer
+1,Pilot,7.4,7006,0,1,3,Ken Kwapis,Ricky Gervais;Stephen Merchant;Greg Daniels
+1,Diversity Day,8.3,6902,0,2,3,Ken Kwapis,B.J. Novak
+1,Health Care,7.7,5756,0,3,4,Ken Whittingham,Paul Lieberstein
+1,The Alliance,8.0,5579,0,4,4,Bryan Gordon,Michael Schur
+1,Basketball,8.4,6183,0,5,4,Greg Daniels,Greg Daniels
+1,Hot Girl,7.7,5495,0,6,4,Amy Heckerling,Mindy Kaling
+2,The Dundies,8.7,6184,0,1,9,Greg Daniels,Mindy Kaling
+2,Sexual Harassment,8.2,5299,0,2,9,Ken Kwapis,B.J. Novak
+2,Office Olympics,8.3,5249,0,3,10,Paul Feig,Michael Schur
+2,The Fire,8.3,5183,0,4,10,Ken Kwapis,B.J. Novak
+2,Halloween,8.1,4857,0,5,10,Paul Feig,Greg Daniels
+2,The Fight,8.1,4867,0,6,11,Ken Kwapis,Lee Eisenberg;Gene Stupnitsky
+2,The Client,8.6,5125,0,7,11,Greg Daniels,Paul Lieberstein
+2,Performance Review,8.1,4629,0,8,11,Paul Feig,Larry Willmore
+2,E-Mail Surveillance,8.4,4766,0,9,11,Paul Feig,Jennifer Celotta
+2,Christmas Party,8.9,5278,0,10,12,Charles McDougall,Michael Schur
+2,Booze Cruise,8.6,5086,0,11,1,Ken Kwapis,Greg Daniels
+2,The Injury,9.1,6120,0,12,1,Bryan Gordon,Mindy Kaling
+2,The Secret,8.2,4518,0,13,1,Dennie Gordon,Lee Eisenberg;Gene Stupnitsky
+2,The Carpet,7.8,4465,0,14,1,Victor Nelli Jr.,Paul Lieberstein
+2,Boys and Girls,8.1,4431,0,15,2,Dennie Gordon,B.J. Novak
+2,Valentine's Day,8.3,4450,0,16,2,Greg Daniels,Michael Schur
+2,Dwight's Speech,8.4,4737,0,17,3,Charles McDougall,Paul Lieberstein
+2,Take Your Daughter to Work Day,8.3,4590,0,18,3,Victor Nelli Jr.,Mindy Kaling
+2,Michael's Birthday,8.1,4432,0,19,3,Ken Whittingham,Lee Eisenberg;Gene Stupnitsky
+2,Drug Testing,8.4,4522,0,20,4,Greg Daniels,Jennifer Celotta
+2,Conflict Resolution,8.7,4627,0,21,5,Greg Daniels,Greg Daniels
+2,Casino Night,9.4,6692,0,22,5,Greg Daniels,Steve Carell
+3,Gay Witch Hunt,9.0,5952,0,1,9,Ken Kwapis,Greg Daniels
+3,The Convention,8.2,4354,0,2,9,Ken Whittingham,Lee Eisenberg;Gene Stupnitsky
+3,The Coup,8.5,4562,0,3,10,Greg Daniels,Paul Lieberstein
+3,Grief Counseling,8.0,4366,0,4,10,Roger Nygard,Jennifer Celotta
+3,Initiation,8.1,4248,0,5,10,Randall Einhorn,B.J. Novak
+3,Diwali,7.9,4443,0,6,11,Miguel Arteta,Mindy Kaling
+3,Branch Closing,8.6,4371,0,7,11,Tucker Gates,Michael Schur
+3,The Merger,8.7,4558,0,8,11,Ken Whittingham,Brent Forrester
+3,The Convict,8.3,4564,0,9,11,Jeffrey Blitz,Ricky Gervais;Stephen Merchant
+3,A Benihana Christmas,8.8,4791,1,10,12,Harold Ramis,Jennifer Celotta
+3,Back from Vacation,8.6,4333,0,12,1,Julian Farino,Justin Spitzer
+3,Traveling Salesmen,8.6,4371,0,13,1,Greg Daniels,Michael Schur;Lee Eisenberg;Gene Stupnitsky
+3,The Return,8.8,4592,0,14,1,Greg Daniels,Lee Eisenberg;Gene Stupnitsky;Michael Schur
+3,Ben Franklin,8.0,4246,0,15,2,Randall Einhorn,Mindy Kaling
+3,Phyllis' Wedding,8.2,4301,0,16,2,Ken Whittingham,Caroline Williams
+3,Business School,8.9,4994,0,17,2,Joss Whedon,Brent Forrester
+3,Cocktails,8.5,4251,0,18,2,J.J. Abrams,Paul Lieberstein
+3,The Negotiation,9.0,4848,0,19,4,Jeffrey Blitz,Michael Schur
+3,Safety Training,8.8,4516,0,20,4,Harold Ramis,B.J. Novak
+3,Product Recall,8.7,4455,0,21,4,Randall Einhorn,Brent Forrester;Justin Spitzer
+3,Women's Appreciation,8.8,4519,0,22,5,Tucker Gates,Lee Eisenberg;Gene Stupnitsky
+3,Beach Games,9.2,5211,0,23,5,Harold Ramis,Jennifer Celotta;Greg Daniels
+3,The Job,9.3,5482,1,24,5,Ken Kwapis,Paul Lieberstein;Michael Schur
+4,Fun Run,8.8,5065,1,1,9,Greg Daniels,Greg Daniels
+4,Dunder Mifflin Infinity,8.3,4174,1,3,10,Craig Zisk,Michael Schur
+4,Launch Party,8.4,4064,1,5,10,Ken Whittingham,Jennifer Celotta
+4,Money,8.7,4377,1,7,10,Paul Lieberstein,Paul Lieberstein
+4,Local Ad,8.8,4488,0,9,10,Jason Reitman,B.J. Novak
+4,Branch Wars,8.5,4150,0,10,11,Joss Whedon,Mindy Kaling
+4,Survivor Man,8.2,3984,0,11,11,Paul Feig,Steve Carell
+4,The Deposition,8.7,4235,0,12,11,Julian Farino,Lester Lewis
+4,Dinner Party,9.5,8203,0,13,4,Paul Feig,Lee Eisenberg;Gene Stupnitsky
+4,Chair Model,8.0,3922,0,14,4,Jeffrey Blitz,B.J. Novak
+4,Night Out,8.6,4076,0,15,4,Ken Whittingham,Mindy Kaling
+4,Did I Stutter?,8.3,3910,0,16,5,Randall Einhorn,Brent Forrester;Justin Spitzer
+4,Job Fair,7.7,3744,0,17,5,Tucker Gates,Lee Eisenberg;Gene Stupnitsky
+4,"Goodbye, Toby",9.4,5577,1,18,5,Paul Feig,Jennifer Celotta;Paul Lieberstein
+5,Weight Loss,8.8,4597,1,1,9,Paul Feig,Lee Eisenberg;Gene Stupnitsky
+5,Business Ethics,8.2,3770,0,3,10,Jeffrey Blitz,Ryan Koh
+5,Baby Shower,8.0,3759,0,4,10,Greg Daniels,Aaron Shure
+5,Crime Aid,8.1,3617,0,5,10,Jennifer Celotta,Charlie Grandy
+5,Employee Transfer,8.0,3718,0,6,10,David Rogers,Anthony Q. Farrell
+5,Customer Survey,8.5,3879,0,7,11,Stephen Merchant,Lester Lewis
+5,Business Trip,8.2,3619,0,8,11,Randall Einhorn,Brent Forrester
+5,Frame Toby,8.6,4038,0,9,11,Jason Reitman,Mindy Kaling
+5,The Surplus,8.8,4009,0,10,12,Paul Feig,Lee Eisenberg;Gene Stupnitsky
+5,Moroccan Christmas,8.4,3751,0,11,12,Paul Feig,Justin Spitzer
+5,The Duel,8.7,3913,0,12,1,Dean Holland,Jennifer Celotta
+5,Prince Family Paper,8.0,3766,0,13,1,Asaad Kelada,B.J. Novak
+5,Stress Relief,9.7,11895,1,14,2,Jeffrey Blitz,Paul Lieberstein
+5,Lecture Circuit: Part 1,8.2,3594,0,16,2,Ken Kwapis,Mindy Kaling
+5,Lecture Circuit: Part 2,8.1,3552,0,17,2,Ken Kwapis,Mindy Kaling
+5,Blood Drive,8.0,3557,0,18,3,Randall Einhorn,Brent Forrester
+5,Golden Ticket,8.7,3870,0,19,3,Randall Einhorn,Mindy Kaling
+5,New Boss,8.3,3617,0,20,3,Paul Feig,Lee Eisenberg;Gene Stupnitsky
+5,Two Weeks,8.4,3602,0,21,3,Paul Lieberstein,Aaron Shure
+5,Dream Team,8.3,3592,0,22,4,Paul Feig,B.J. Novak
+5,Michael Scott Paper Company,8.7,3946,0,23,4,Lee Eisenberg;Gene Stupnitsky,Justin Spitzer
+5,Heavy Competition,8.7,3708,0,24,4,Ken Whittingham,Ryan Koh
+5,Broke,9.3,4998,0,25,4,Steve Carell,Charlie Grandy
+5,Casual Friday,8.3,3556,0,26,4,Brent Forrester,Anthony Q. Farrell
+5,Cafe Disco,8.8,4172,0,27,5,Randall Einhorn,Warren Lieberstein;Halsted Sullivan
+5,Company Picnic,9.0,4255,0,28,5,Ken Kwapis,Jennifer Celotta;Paul Lieberstein
+6,Gossip,8.8,4184,0,1,9,Paul Lieberstein,Paul Lieberstein
+6,The Meeting,8.1,3402,0,2,9,Randall Einhorn,Aaron Shure
+6,The Promotion,8.0,3390,0,3,10,Jennifer Celotta,Jennifer Celotta
+6,Niagara,9.4,6277,1,4,10,Paul Feig,Greg Daniels;Mindy Kaling
+6,Mafia,7.6,3582,0,6,10,,
+6,The Lover,8.6,3766,0,7,10,,
+6,Koi Pond,8.1,3410,0,8,10,,
+6,Double Date,8.1,3369,0,9,11,,
+6,Murder,8.7,4090,0,10,11,,
+6,Shareholder Meeting,8.2,3403,0,11,11,,
+6,Scott's Tots,8.3,3918,0,12,12,,
+6,Secret Santa,8.5,3587,0,13,12,,
+6,The Banker,6.8,4380,0,14,1,,
+6,Sabre,7.6,3267,0,15,2,,
+6,Manager and Salesman,8.0,3226,0,16,2,,
+6,The Delivery,8.5,3438,1,17,3,,
+6,St. Patrick's Day,7.6,3180,0,19,3,,
+6,New Leads,7.7,3158,0,20,3,,
+6,Happy Hour,8.6,3613,0,21,3,,
+6,Secretary's Day,7.8,3159,0,22,4,,
+6,Body Language,7.9,3175,0,23,4,,
+6,The Cover-Up,8.1,3168,0,24,5,,
+6,The Chump,7.7,3064,0,25,5,,
+6,Whistleblower,8.0,3161,0,26,5,,
+7,Nepotism,8.3,3627,0,1,9,,
+7,Counseling,8.2,3288,0,2,9,,
+7,Andy's Play,8.2,3512,0,3,10,,
+7,Sex Ed,7.8,3233,0,4,10,,
+7,The Sting,7.7,3149,0,5,10,,
+7,Costume Contest,8.2,3278,0,6,10,,
+7,Christening,7.4,3267,0,7,11,,
+7,Viewing Party,7.8,3216,0,8,11,,
+7,WUPHF.com,7.7,3115,0,9,11,,
+7,China,8.2,3299,0,10,12,,
+7,Classy Christmas,9.0,4190,1,11,12,,
+7,Ultimatum,8.3,3332,0,13,1,,
+7,The Seminar,7.6,3167,0,14,1,,
+7,The Search,8.5,3505,0,15,2,,
+7,PDA,8.4,3413,0,16,2,,
+7,Threat Level Midnight,9.4,7272,0,17,2,,
+7,Todd Packer,7.4,3117,0,18,2,,
+7,Garage Sale,9.4,5573,0,19,3,,
+7,Training Day,7.7,3232,0,20,4,,
+7,Michael's Last Dundies,9.0,4576,0,21,4,,
+7,"Goodbye, Michael",9.8,12236,0,22,4,,
+7,The Inner Circle,7.5,3214,0,23,5,,
+7,"Dwight K. Schrute, (Acting) Manager",8.7,3528,0,24,5,,
+7,Search Committee,8.7,3719,1,25,5,,
+8,The List,8.1,3377,0,1,9,,
+8,The Incentive,8.1,3202,0,2,9,,
+8,Lotto,7.2,3050,0,3,10,,
+8,Garden Party,8.1,3348,0,4,10,,
+8,Spooked,7.5,2992,0,5,10,,
+8,Doomsday,7.6,2882,0,6,11,,
+8,Pam's Replacement,7.7,3079,0,7,11,,
+8,Gettysburg,6.8,3102,0,8,11,,
+8,Mrs. California,7.6,3020,0,9,12,,
+8,Christmas Wishes,7.9,2950,0,10,12,,
+8,Trivia,7.9,2916,0,11,1,,
+8,Pool Party,8.0,3162,0,12,1,,
+8,Jury Duty,7.4,2860,0,13,2,,
+8,Special Project,7.6,2784,0,14,2,,
+8,Tallahassee,7.8,2936,0,15,2,,
+8,After Hours,8.1,3045,0,16,2,,
+8,Test the Store,7.8,2899,0,17,3,,
+8,Last Day in Florida,7.8,2829,0,18,3,,
+8,Get the Girl,6.4,3320,0,19,3,,
+8,Welcome Party,7.0,2919,0,20,4,,
+8,Angry Andy,6.8,3170,0,21,4,,
+8,Fundraiser,7.0,2809,0,22,4,,
+8,Turf War,7.6,2724,0,23,5,,
+8,Free Family Portrait Studio,7.7,2842,0,24,5,,
+9,New Guys,7.5,3054,0,1,9,,
+9,Roy's Wedding,7.1,2917,0,2,9,,
+9,Andy's Ancestry,7.3,2873,0,3,10,,
+9,Work Bus,7.8,3063,0,4,10,,
+9,Here Comes Treble,6.9,2968,0,5,10,,
+9,The Boat,7.7,2908,0,6,11,,
+9,The Whale,7.6,2782,0,7,11,,
+9,The Target,7.8,2911,0,8,11,,
+9,Dwight Christmas,8.4,3280,0,9,12,,
+9,Lice,7.6,2880,0,10,1,,
+9,Suit Warehouse,7.8,2827,0,11,1,,
+9,Customer Loyalty,7.9,2918,0,12,1,,
+9,Junior Salesman,7.5,2765,0,13,1,,
+9,Vandalism,7.4,2774,0,14,1,,
+9,Couples Discount,7.2,2828,0,15,2,,
+9,Moving On,8.0,3065,0,16,2,,
+9,The Farm,7.5,3231,0,17,3,,
+9,Promos,8.0,2857,0,18,4,,
+9,Stairmageddon,8.0,2961,0,19,4,,
+9,Paper Airplane,8.0,3040,0,20,4,,
+9,Livin' the Dream,9.1,4448,0,21,5,,
+9,A.A.R.M.,9.5,5930,1,22,5,,
+9,Finale,9.8,15245,1,24,5,,
