@@ -1,6 +1,5 @@
 # Why we love The Office: that’s what data science said
-By detailed exploratory data analysis I achieved deep understanding of character personalities and identified features that are most important to the success
-of the episodes. Further those features were used to create model predicting episode’s rating.    
+Detailed exploratory data analysis of "The Office", American sitcom. I achieved deep understanding of character personalities and identified features that are most important to the success of the episodes. Further those features were used to create model predicting episode’s rating.    
 
 The project is published on my [website](https://andronikova.github.io/office_data_analysis).
 
