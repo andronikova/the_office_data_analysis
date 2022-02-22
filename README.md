@@ -3,6 +3,6 @@ Detailed exploratory data analysis of "The Office", American sitcom. I achieved 
 
 The project is published on my [website](https://andronikova.github.io/office_data_analysis).
 
-[FV.ipnb](https://github.com/andronikova/the_office_data_analysis/blob/master/FV.ipynb) - notebook with exploratory data analysis and modeling. You may use [nbviewer](https://nbviewer.org/github/andronikova/the_office_data_analysis/blob/master/FV.ipynb)  to open it
+[The_Office_analysis.ipynb](https://github.com/andronikova/the_office_data_analysis/blob/master/The_Office_analysis.ipynb) - notebook with exploratory data analysis and modeling. You may use [nbviewer](https://nbviewer.org/github/andronikova/the_office_data_analysis/blob/master/The_Office_analysis.ipynb)  to open it
 
 df.csv - database with information about each episodes. All these features are used to create model predicting rating.    
